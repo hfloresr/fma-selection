@@ -1,5 +1,7 @@
 # fma-selection
 
+This project aims to use techniques in optimization for feature selection. The goal of this project is to expand on the research of Defferrard et. al, and apply the techniques for music analysis.
+
 ## FMA: A Dataset For Music Analysis
 
 [Michaël Defferrard](http://deff.ch), [Kirell Benzi](http://kirellbenzi.com),
