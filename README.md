@@ -73,7 +73,7 @@ Then, you got various sizes of MP3-encoded audio data:
 	cd fma-selection
 	```
 
-1. Install the Python dependencies from `environment.yml'. Depending on your
+1. Install the Python dependencies from `environment.yml`. Depending on your
    usage, you may need to install [ffmpeg] or [graphviz]. Install [CUDA] if you
    want to train neural networks on GPUs (see
    [Tensorflow's instructions](https://www.tensorflow.org/install/)).
@@ -85,4 +85,3 @@ Then, you got various sizes of MP3-encoded audio data:
 	```sh
 	cat .env
 	AUDIO_DIR=/path/to/audio
-	FMA_KEY=IFIUSETHEAPI
