@@ -85,3 +85,10 @@ Then, you got various sizes of MP3-encoded audio data:
 	```sh
 	cat .env
 	AUDIO_DIR=/path/to/audio
+	
+[7zip]:       http://www.7-zip.org
+[pyenv]:      https://github.com/pyenv/pyenv
+[pyenv-virt]: https://github.com/pyenv/pyenv-virtualenv
+[ffmpeg]:     https://ffmpeg.org/download.html
+[graphviz]:   http://www.graphviz.org/
+[CUDA]:       https://en.wikipedia.org/wiki/CUDA
