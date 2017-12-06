@@ -69,14 +69,8 @@ Then, you got various sizes of MP3-encoded audio data:
 
 1. Clone the repository.
 	```sh
-	git clone https://github.com/mdeff/fma.git
-	cd fma
-	```
-
-1. Checkout the revision matching the data you downloaded (e.g., `beta`, `rc1`,
-   `v1`). See the [history](#history) of the dataset.
-	```sh
-	git checkout rc1
+	git clone https://github.com/hfloresr/fma-selection.git
+	cd fma-selection
 	```
 
 1. Install the Python dependencies from `requirements.txt`. Depending on your
