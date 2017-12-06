@@ -73,12 +73,12 @@ Then, you got various sizes of MP3-encoded audio data:
 	cd fma-selection
 	```
 
-1. Install the Python dependencies from `requirements.txt`. Depending on your
+1. Install the Python dependencies from `environment.yml'. Depending on your
    usage, you may need to install [ffmpeg] or [graphviz]. Install [CUDA] if you
    want to train neural networks on GPUs (see
    [Tensorflow's instructions](https://www.tensorflow.org/install/)).
 	```sh
-	make install
+	conda env create --file environment.yml
 	```
 
 1. Fill in the configuration.
