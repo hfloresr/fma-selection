@@ -12,9 +12,9 @@ vids/
 *.out
 *.synctex.gz
 
+readings/
 data/
 *.zip
-*.pdf
 *.csv
 
 fma_metadata/
