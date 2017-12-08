@@ -1,9 +1,11 @@
 name: proj
 channels:
+  - bioconda
   - conda-forge
   - colomoto
   - defaults
 dependencies:
+  - deap
   - jupyter
   - keras<2
   - librosa
